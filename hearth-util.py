@@ -38,7 +38,7 @@ def get_cost(rarity):
     return total
 
 lines = []
-filename = 'hearthstone.txt'
+filename = 'missing.txt'
 rarities = ['legendary', 'epic', 'rare', 'common',
             'l', 'e', 'ra', 'c']
 classes = ['druid', 'hunter', 'mage', 
