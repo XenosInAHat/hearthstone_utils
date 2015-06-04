@@ -1,0 +1,136 @@
+----------
+Druid
+----------
+Dark Wispers (Epic)
+Force of Nature (Epic)
+Ancient of War (Epic)
+Malorne (Legendary)
+Tree of Life (Epic)
+Cenarius (Legendary)
+
+----------
+Hunter
+----------
+Bestial Wrath (Epic)
+Call Pet, non-gold (Rare)
+Snake Trap (Epic)
+Gahz'rilla (Legendary)
+King Krush (Legendary)
+
+----------
+Mage
+----------
+Unstable Portal (Rare)
+Spellbender (Epic)
+Kirin Tor Mage (Rare)
+Soot Spewer (Rare)
+Flame Leviathan (Legendary)
+
+----------
+Paladin
+----------
+Eye for an Eye (Common)
+Coghammer (Epic)
+Bolvar Fordragon (Legendary)
+Quartermaster (Epic)
+Lay on Hands (Epic)
+Tirion Fordring (Legendary)
+
+----------
+Priest
+----------
+Lightwell (Rare)
+Shadowform, non-gold (Epic)
+Vol'jin (Legendary)
+Lightbomb (Epic)
+Prophet Velen (Legendary)
+
+----------
+Rogue
+----------
+Preparation (Epic)
+Patient Assassin (Epic)
+Edwin VanCleef (Legendary)
+Iron Sensei (Rare)
+Trade Prince Gallywix (Legendary)
+
+----------
+Shaman
+----------
+Mana Tide Totem (Rare)
+Siltfin Spiritwalker (Epic)
+Neptulon (Legendary)
+
+----------
+Warlock
+----------
+Pit Lord (Epic)
+Bane of Doom (Epic)
+Lord Jaraxxus (Legendary)
+
+----------
+Warrior
+----------
+Commanding Shout (Rare)
+Bouncing Blade (Epic)
+Mortal Strike (Rare)
+Iron Juggernaut (Legendary)
+Gorehowl (Epic)
+Crush (Epic)
+Grommash Hellscream (Legendary)
+
+----------
+Neutral
+----------
+Angry Chicken (Rare)
+Hungry Crab (Epic)
+Lightwarden (Rare)
+Ancient Watcher (Rare)
+Bloodmage Thalnos (Legendary)
+Doomsayer (Epic)
+Lorewalker Cho (Legendary)
+Millhouse Manastorm (Legendary)
+Nat Pagle (Legendary)
+Pint-Sized Summoner (Rare)
+Big Game Hunter (Epic)
+Blood Knight, non-gold (Epic)
+Emperor Cobra (Rare)
+Hobgoblin (Epic)
+King Mukla (Legendary)
+Mind Control Tech (Rare)
+Questing Adventurer (Rare)
+Tinkmaster Overspark (Legendary)
+Enhance-o Mechano (Epic)
+Mini-Mage (Epic)
+Blingtron 3000 (Legendary)
+Captain Greenskin (Legendary)
+Elite Tauren Chieftan (Legendary)
+Harrison Jones (Legendary)
+Hemet Nesingwary (Legendary)
+Leeroy Jenkins (Legendary)
+Mimiron's Head (Legendary)
+Argent Commander (Rare)
+Gazlowe (Legendary)
+Gelbin Mekkatorque (Legendary)
+Hogger (Legendary)
+Mogor the Ogre (Legendary)
+Sylvanas Windrunner (Legendary)
+The Beast (Legendary)
+The Black Knight (Legendary)
+Toshley (Legendary)
+Baron Geddon (Legendary)
+Dr. Boom (Legendary)
+Troggzor (Legendary)
+Gruul (Legendary)
+Ragnaros the Firelord, non-gold (Legendary)
+Sneed's Old Shredder (Legendary)
+Alexstrasza (Legendary)
+Malygos (Legendary)
+Nozdormu (Legendary)
+Onyxia (Legendary)
+Ysera (Legendary)
+Deathwing (Legendary)
+Clockwork Giant (Epic)
+Mountain Giant (Epic)
+Moten Giant (Epic)
+---------

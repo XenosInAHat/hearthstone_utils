@@ -1,0 +1,132 @@
+Card 1: Ancestral Healing Free Spell Shaman 0
+Card 2: Arcane Explosion Free Spell Mage 2
+Card 3: Arcane Intellect Free Spell Mage 3
+Card 4: Arcane Missiles Free Spell Mage 1
+Card 5: Arcane Shot Free Spell Hunter 1
+Card 6: Assassinate Free Spell Rogue 5
+Card 7: Backstab Free Spell Rogue 0
+Card 8: Blessing of Might Free Spell Paladin 1
+Card 9: Bloodfen Raptor Free Minion Any 2
+Card 10: Boulderfist Ogre Free Minion Any 6
+Card 11: Charge Free Spell Warrior 3
+Card 12: Claw Free Spell Druid 1
+Card 13: Deadly Poison Free Spell Rogue 1
+Card 14: Drain Life Free Spell Warlock 3
+Card 15: Execute Free Spell Warrior 1
+Card 16: Fiery War Axe Free Weapon Warrior 2
+Card 17: Fireball Free Spell Mage 4
+Card 18: Frost Shock Free Spell Shaman 1
+Card 19: Hammer of Wrath Free Spell Paladin 4
+Card 20: Hand of Protection Free Spell Paladin 1
+Card 21: Healing Touch Free Spell Druid 3
+Card 22: Heroic Strike Free Spell Warrior 2
+Card 23: Hex Free Spell Shaman 3
+Card 24: Holy Light Free Spell Paladin 2
+Card 25: Holy Smite Free Spell Priest 1
+Card 26: Houndmaster Free Minion Hunter 4
+Card 27: Innervate Free Spell Druid 0
+Card 28: Light's Justice Free Weapon Paladin 1
+Card 29: Magma Rager Free Minion Any 3
+Card 30: Mark of the Wild Free Spell Druid 2
+Card 31: Mind Blast Free Spell Priest 2
+Card 32: Multi-Shot Free Spell Hunter 4
+Card 33: Murloc Raider Free Minion Any 1
+Card 34: Nightblade Free Minion Any 5
+Card 35: Northshire Cleric Free Minion Priest 1
+Card 36: Novice Engineer Free Minion Any 2
+Card 37: Oasis Snapjaw Free Minion Any 4
+Card 38: Polymorph Free Spell Mage 4
+Card 39: Power Word: Shield Free Spell Priest 1
+Card 40: Raid Leader Free Minion Any 3
+Card 41: Reckless Rocketeer Free Minion Any 6
+Card 42: River Crocolisk Free Minion Any 2
+Card 43: Rockbiter Weapon Free Spell Shaman 1
+Card 44: Sap Free Spell Rogue 2
+Card 45: Sen'jin Shieldmasta Free Minion Any 4
+Card 46: Shadow Bolt Free Spell Warlock 3
+Card 47: Shadow Word: Pain Free Spell Priest 2
+Card 48: Sinister Strike Free Spell Rogue 1
+Card 49: Stonetusk Boar Free Minion Any 1
+Card 50: Succubus Free Minion Warlock 2
+Card 51: Timber Wolf Free Minion Hunter 1
+Card 52: Tracking Free Spell Hunter 1
+Card 53: Voidwalker Free Minion Warlock 1
+Card 54: Voodoo Doctor Free Minion Any 1
+Card 55: Warsong Commander Free Minion Warrior 3
+Card 56: Wild Growth Free Spell Druid 2
+Card 57: Windfury Free Spell Shaman 2
+Card 58: Wolfrider Free Minion Any 3
+Card 59: Acidic Swamp Ooze Common Minion Any 2
+Card 60: Animal Companion Common Spell Hunter 3
+Card 61: Arcanite Reaper Common Weapon Warrior 5
+Card 62: Archmage Common Minion Any 6
+Card 63: Assassin's Blade Common Weapon Rogue 5
+Card 64: Blessing of Kings Common Spell Paladin 4
+Card 65: Bloodlust Common Spell Shaman 5
+Card 66: Bluegill Warrior Common Minion Any 2
+Card 67: Booty Bay Bodyguard Common Minion Any 5
+Card 68: Chillwind Yeti Common Minion Any 4
+Card 69: Cleave Common Spell Warrior 2
+Card 70: Consecration Common Spell Paladin 4
+Card 71: Core Hound Common Minion Any 7
+Card 72: Corruption Common Spell Warlock 1
+Card 73: Dalaran Mage Common Minion Any 3
+Card 74: Darkscale Healer Common Minion Any 5
+Card 75: Divine Spirit Common Spell Priest 2
+Card 76: Dragonling Mechanic Common Minion Any 4
+Card 77: Dread Infernal Common Minion Warlock 6
+Card 78: Elven Archer Common Minion Any 1
+Card 79: Fan of Knives Common Spell Rogue 3
+Card 80: Fire Elemental Common Minion Shaman 6
+Card 81: Flamestrike Common Spell Mage 7
+Card 82: Flametongue Totem Common Minion Shaman 2
+Card 83: Frost Nova Common Spell Mage 3
+Card 84: Frostbolt Common Spell Mage 2
+Card 85: Frostwolf Grunt Common Minion Any 2
+Card 86: Frostwolf Warlord Common Minion Any 5
+Card 87: Gnomish Inventor Common Minion Any 4
+Card 88: Goldshire Footman Common Minion Any 1
+Card 89: Grimscale Oracle Common Minion Any 1
+Card 90: Guardian of Kings Common Minion Paladin 7
+Card 91: Gurubashi Berserker Common Minion Any 5
+Card 92: Holy Nova Common Spell Priest 5
+Card 93: Humility Common Spell Paladin 1
+Card 94: Hunter's Mark Common Spell Hunter 0
+Card 95: Ironbark Protector Common Minion Druid 8
+Card 96: Ironforge Rifleman Common Minion Any 3
+Card 97: Ironfur Grizzly Common Minion Any 3
+Card 98: Kill Command Common Spell Hunter 3
+Card 99: Kobold Geomancer Common Minion Any 2
+Card 100: Kor'kron Elite Common Minion Warrior 4
+Card 101: Lord of the Arena Common Minion Any 6
+Card 102: Mind Control Common Spell Priest 10
+Card 103: Mind Vision Common Spell Priest 1
+Card 104: Mirror Image Common Spell Mage 1
+Card 105: Moonfire Common Spell Druid 0
+Card 106: Mortal Coil Common Spell Warlock 1
+Card 107: Murloc Tidehunter Common Minion Any 2
+Card 108: Ogre Magi Common Minion Any 4
+Card 109: Razorfen Hunter Common Minion Any 3
+Card 110: Sacrificial Pact Common Spell Warlock 0
+Card 111: Savage Roar Common Spell Druid 3
+Card 112: Shadow Word: Death Common Spell Priest 3
+Card 113: Shattered Sun Cleric Common Minion Any 3
+Card 114: Shield Block Common Spell Warrior 3
+Card 115: Shiv Common Spell Rogue 2
+Card 116: Silverback Patriarch Common Minion Any 3
+Card 117: Soulfire Common Spell Warlock 1
+Card 118: Sprint Common Spell Rogue 7
+Card 119: Starfire Common Spell Druid 6
+Card 120: Starving Buzzard Common Minion Hunter 5
+Card 121: Stormpike Commando Common Minion Any 5
+Card 122: Stormwind Champion Common Minion Any 7
+Card 123: Stormwind Knight Common Minion Any 4
+Card 124: Swipe Common Spell Druid 4
+Card 125: Totemic Might Common Spell Shaman 0
+Card 126: Truesilver Champion Common Weapon Paladin 4
+Card 127: Tundra Rhino Common Minion Hunter 5
+Card 128: Vanish Common Spell Rogue 6
+Card 129: War Golem Common Minion Any 7
+Card 130: Water Elemental Common Minion Mage 4
+Card 131: Whirlwind Common Spell Warrior 1
+Card 132: Windspeaker Common Minion Shaman 4

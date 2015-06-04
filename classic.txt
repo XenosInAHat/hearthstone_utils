@@ -1,0 +1,245 @@
+Card 1: Abusive Sergeant Common Minion Any 1
+Card 2: Acolyte of Pain Common Minion Any 3
+Card 3: Amani Berserker Common Minion Any 2
+Card 4: Ancient Brewmaster Common Minion Any 4
+Card 5: Arathi Weaponsmith Common Minion Warrior 4
+Card 6: Argent Protector Common Minion Paladin 2
+Card 7: Argent Squire Common Minion Any 1
+Card 8: Battle Rage Common Spell Warrior 2
+Card 9: Betrayal Common Spell Rogue 2
+Card 10: Blessing of Wisdom Common Spell Paladin 1
+Card 11: Blood Imp Common Minion Warlock 1
+Card 12: Bloodsail Raider Common Minion Any 2
+Card 13: Circle of Healing Common Spell Priest 0
+Card 14: Cold Blood Common Spell Rogue 1
+Card 15: Conceal Common Spell Rogue 1
+Card 16: Cone of Cold Common Spell Mage 4
+Card 17: Cruel Taskmaster Common Minion Warrior 2
+Card 18: Cult Master Common Minion Any 4
+Card 19: Dark Iron Dwarf Common Minion Any 4
+Card 20: Deadly Shot Common Spell Hunter 3
+Card 21: Defias Ringleader Common Minion Rogue 2
+Card 22: Demonfire Common Spell Warlock 2
+Card 23: Dire Wolf Alpha Common Minion Any 2
+Card 24: Dread Corsair Common Minion Any 4
+Card 25: Druid of the Claw Common Minion Druid 5
+Card 26: Dust Devil Common Minion Shaman 1
+Card 27: Earth Shock Common Spell Shaman 1
+Card 28: Earthen Ring Farseer Common Minion Any 3
+Card 29: Eviscerate Common Spell Rogue 2
+Card 30: Explosive Trap Common Spell Hunter 2
+Card 31: Eye for an Eye Common Spell Paladin 1
+Card 32: Faerie Dragon Common Minion Any 2
+Card 33: Fen Creeper Common Minion Any 5
+Card 34: Flame Imp Common Minion Warlock 1
+Card 35: Flesheating Ghoul Common Minion Any 3
+Card 36: Forked Lightning Common Spell Shaman 1
+Card 37: Freezing Trap Common Spell Hunter 2
+Card 38: Frost Elemental Common Minion Any 6
+Card 39: Harvest Golem Common Minion Any 3
+Card 40: Ice Barrier Common Spell Mage 3
+Card 41: Ice Lance Common Spell Mage 1
+Card 42: Inner Fire Common Spell Priest 1
+Card 43: Inner Rage Common Spell Warrior 0
+Card 44: Ironbeak Owl Common Minion Any 2
+Card 45: Jungle Panther Common Minion Any 3
+Card 46: Leper Gnome Common Minion Any 1
+Card 47: Lightning Bolt Common Spell Shaman 1
+Card 48: Lightspawn Common Minion Priest 4
+Card 49: Loot Hoarder Common Minion Any 2
+Card 50: Mad Bomber Common Minion Any 2
+Card 51: Mana Wyrm Common Minion Mage 1
+Card 52: Mark of Nature Common Spell Druid 3
+Card 53: Mirror Entity Common Spell Mage 3
+Card 54: Mogu'shan Warden Common Minion Any 4
+Card 55: Naturalize Common Spell Druid 1
+Card 56: Noble Sacrifice Common Spell Paladin 1
+Card 57: Power Overwhelming Common Spell Warlock 1
+Card 58: Power of the Wild Common Spell Druid 2
+Card 59: Priestess of Elune Common Minion Any 6
+Card 60: Raging Worgen Common Minion Any 3
+Card 61: Rampage Common Spell Warrior 2
+Card 62: Redemption Common Spell Paladin 1
+Card 63: Repentance Common Spell Paladin 1
+Card 64: Scarlet Crusader Common Minion Any 3
+Card 65: Scavenging Hyena Common Minion Hunter 2
+Card 66: Sense Demons Common Spell Warlock 3
+Card 67: Shadowstep Common Spell Rogue 0
+Card 68: Shieldbearer Common Minion Any 1
+Card 69: Silence Common Spell Priest 0
+Card 70: Silver Hand Knight Common Minion Any 5
+Card 71: Silvermoon Guardian Common Minion Any 4
+Card 72: Slam Common Spell Warrior 2
+Card 73: Snipe Common Spell Hunter 2
+Card 74: Sorcerer's Apprentice Common Minion Mage 2
+Card 75: Soul of the Forest Common Spell Druid 4
+Card 76: Southsea Deckhand Common Minion Any 1
+Card 77: Spellbreaker Common Minion Any 4
+Card 78: Spiteful Smith Common Minion Any 5
+Card 79: Stormforged Axe Common Weapon Shaman 2
+Card 80: Stranglethorn Tiger Common Minion Any 5
+Card 81: Summoning Portal Common Minion Warlock 4
+Card 82: Tauren Warrior Common Minion Any 3
+Card 83: Temple Enforcer Common Minion Priest 6
+Card 84: Thoughtsteal Common Spell Priest 3
+Card 85: Thrallmar Farseer Common Minion Any 3
+Card 86: Unbound Elemental Common Minion Shaman 3
+Card 87: Unleash the Hounds Common Spell Hunter 3
+Card 88: Venture Co. Mercenary Common Minion Any 5
+Card 89: Windfury Harpy Common Minion Any 6
+Card 90: Wisp Common Minion Any 0
+Card 91: Worgen Infiltrator Common Minion Any 1
+Card 92: Wrath Common Spell Druid 2
+Card 93: Young Dragonhawk Common Minion Any 1
+Card 94: Youthful Brewmaster Common Minion Any 2
+Card 95: Abomination Rare Minion Any 5
+Card 96: Alarm-o-Bot Rare Minion Any 3
+Card 97: Aldor Peacekeeper Rare Minion Paladin 3
+Card 98: Ancestral Spirit Rare Spell Shaman 2
+Card 99: Ancient Mage Rare Minion Any 4
+Card 100: Ancient Watcher Rare Minion Any 2
+Card 101: Angry Chicken Rare Minion Any 1
+Card 102: Arcane Golem Rare Minion Any 3
+Card 103: Argent Commander Rare Minion Any 6
+Card 104: Armorsmith Rare Minion Warrior 2
+Card 105: Auchenai Soulpriest Rare Minion Priest 4
+Card 106: Azure Drake Rare Minion Any 5
+Card 107: Bite Rare Spell Druid 4
+Card 108: Blade Flurry Rare Spell Rogue 2
+Card 109: Blessed Champion Rare Spell Paladin 5
+Card 110: Blizzard Rare Spell Mage 6
+Card 111: Bloodsail Corsair Rare Minion Any 1
+Card 112: Coldlight Oracle Rare Minion Any 3
+Card 113: Coldlight Seer Rare Minion Any 3
+Card 114: Commanding Shout Rare Spell Warrior 2
+Card 115: Counterspell Rare Spell Mage 3
+Card 116: Crazed Alchemist Rare Minion Any 2
+Card 117: Defender of Argus Rare Minion Any 4
+Card 118: Demolisher Rare Minion Any 3
+Card 119: Divine Favor Rare Spell Paladin 3
+Card 120: Doomguard Rare Minion Warlock 5
+Card 121: Eaglehorn Bow Rare Weapon Hunter 3
+Card 122: Emperor Cobra Rare Minion Any 3
+Card 123: Equality Rare Spell Paladin 2
+Card 124: Ethereal Arcanist Rare Minion Mage 4
+Card 125: Explosive Shot Rare Spell Hunter 5
+Card 126: Felguard Rare Minion Warlock 3
+Card 127: Feral Spirit Rare Spell Shaman 3
+Card 128: Flare Rare Spell Hunter 2
+Card 129: Frothing Berserker Rare Minion Warrior 3
+Card 130: Gadgetzan Auctioneer Rare Minion Any 6
+Card 131: Headcrack Rare Spell Rogue 3
+Card 132: Holy Fire Rare Spell Priest 6
+Card 133: Holy Wrath Rare Spell Paladin 5
+Card 134: Imp Master Rare Minion Any 3
+Card 135: Injured Blademaster Rare Minion Any 3
+Card 136: Keeper of the Grove Rare Minion Druid 4
+Card 137: Kirin Tor Mage Rare Minion Mage 3
+Card 138: Knife Juggler Rare Minion Any 2
+Card 139: Lava Burst Rare Spell Shaman 3
+Card 140: Lightning Storm Rare Spell Shaman 3
+Card 141: Lightwarden Rare Minion Any 1
+Card 142: Lightwell Rare Minion Priest 2
+Card 143: Mana Addict Rare Minion Any 2
+Card 144: Mana Tide Totem Rare Minion Shaman 3
+Card 145: Mana Wraith Rare Minion Any 2
+Card 146: Mass Dispel Rare Spell Priest 4
+Card 147: Master Swordsmith Rare Minion Any 2
+Card 148: Master of Disguise Rare Minion Rogue 4
+Card 149: Mind Control Tech Rare Minion Any 3
+Card 150: Misdirection Rare Spell Hunter 2
+Card 151: Mortal Strike Rare Spell Warrior 4
+Card 152: Murloc Tidecaller Rare Minion Any 1
+Card 153: Nourish Rare Spell Druid 5
+Card 154: Perdition's Blade Rare Weapon Rogue 3
+Card 155: Pint-Sized Summoner Rare Minion Any 2
+Card 156: Questing Adventurer Rare Minion Any 3
+Card 157: Ravenholdt Assassin Rare Minion Any 7
+Card 158: SI:7 Agent Rare Minion Rogue 3
+Card 159: Savagery Rare Spell Druid 1
+Card 160: Savannah Highmane Rare Minion Hunter 6
+Card 161: Secretkeeper Rare Minion Any 1
+Card 162: Shadow Madness Rare Spell Priest 4
+Card 163: Shadowflame Rare Spell Warlock 4
+Card 164: Siphon Soul Rare Spell Warlock 6
+Card 165: Stampeding Kodo Rare Minion Any 5
+Card 166: Starfall Rare Spell Druid 5
+Card 167: Sunfury Protector Rare Minion Any 2
+Card 168: Sunwalker Rare Minion Any 6
+Card 169: Twilight Drake Rare Minion Any 4
+Card 170: Upgrade! Rare Spell Warrior 1
+Card 171: Vaporize Rare Spell Mage 3
+Card 172: Violet Teacher Rare Minion Any 4
+Card 173: Void Terror Rare Minion Warlock 3
+Card 174: Wild Pyromancer Rare Minion Any 2
+Card 175: Young Priestess Rare Minion Any 1
+Card 176: Ancient of Lore Epic Minion Druid 7
+Card 177: Ancient of War Epic Minion Druid 7
+Card 178: Avenging Wrath Epic Spell Paladin 6
+Card 179: Bane of Doom Epic Spell Warlock 5
+Card 180: Bestial Wrath Epic Spell Hunter 1
+Card 181: Big Game Hunter Epic Minion Any 3
+Card 182: Blood Knight Epic Minion Any 3
+Card 183: Brawl Epic Spell Warrior 5
+Card 184: Cabal Shadow Priest Epic Minion Priest 6
+Card 185: Doomhammer Epic Weapon Shaman 5
+Card 186: Doomsayer Epic Minion Any 2
+Card 187: Earth Elemental Epic Minion Shaman 5
+Card 188: Faceless Manipulator Epic Minion Any 5
+Card 189: Far Sight Epic Spell Shaman 3
+Card 190: Force of Nature Epic Spell Druid 6
+Card 191: Gladiator's Longbow Epic Weapon Hunter 7
+Card 192: Gorehowl Epic Weapon Warrior 7
+Card 193: Hungry Crab Epic Minion Any 1
+Card 194: Ice Block Epic Spell Mage 3
+Card 195: Kidnapper Epic Minion Rogue 6
+Card 196: Lay on Hands Epic Spell Paladin 8
+Card 197: Mindgames Epic Spell Priest 4
+Card 198: Molten Giant Epic Minion Any 20
+Card 199: Mountain Giant Epic Minion Any 12
+Card 200: Murloc Warleader Epic Minion Any 3
+Card 201: Patient Assassin Epic Minion Rogue 2
+Card 202: Pit Lord Epic Minion Warlock 4
+Card 203: Preparation Epic Spell Rogue 0
+Card 204: Pyroblast Epic Spell Mage 10
+Card 205: Sea Giant Epic Minion Any 10
+Card 206: Shadowform Epic Spell Priest 3
+Card 207: Shield Slam Epic Spell Warrior 1
+Card 208: Snake Trap Epic Spell Hunter 2
+Card 209: Southsea Captain Epic Minion Any 3
+Card 210: Spellbender Epic Spell Mage 3
+Card 211: Sword of Justice Epic Weapon Paladin 3
+Card 212: Twisting Nether Epic Spell Warlock 8
+Card 213: Al'Akir the Windlord Legendary Minion Shaman 8
+Card 214: Alexstrasza Legendary Minion Any 9
+Card 215: Archmage Antonidas Legendary Minion Mage 7
+Card 216: Baron Geddon Legendary Minion Any 7
+Card 217: Bloodmage Thalnos Legendary Minion Any 2
+Card 218: Cairne Bloodhoof Legendary Minion Any 6
+Card 219: Captain Greenskin Legendary Minion Any 5
+Card 220: Cenarius Legendary Minion Druid 9
+Card 221: Deathwing Legendary Minion Any 10
+Card 222: Edwin VanCleef Legendary Minion Rogue 3
+Card 223: Grommash Hellscream Legendary Minion Warrior 8
+Card 224: Gruul Legendary Minion Any 8
+Card 225: Harrison Jones Legendary Minion Any 5
+Card 226: Hogger Legendary Minion Any 6
+Card 227: Illidan Stormrage Legendary Minion Any 6
+Card 228: King Krush Legendary Minion Hunter 9
+Card 229: King Mukla Legendary Minion Any 3
+Card 230: Leeroy Jenkins Legendary Minion Any 5
+Card 231: Lord Jaraxxus Legendary Minion Warlock 9
+Card 232: Lorewalker Cho Legendary Minion Any 2
+Card 233: Malygos Legendary Minion Any 9
+Card 234: Millhouse Manastorm Legendary Minion Any 2
+Card 235: Nat Pagle Legendary Minion Any 2
+Card 236: Nozdormu Legendary Minion Any 9
+Card 237: Onyxia Legendary Minion Any 9
+Card 238: Prophet Velen Legendary Minion Priest 7
+Card 239: Ragnaros the Firelord Legendary Minion Any 8
+Card 240: Sylvanas Windrunner Legendary Minion Any 6
+Card 241: The Beast Legendary Minion Any 6
+Card 242: The Black Knight Legendary Minion Any 6
+Card 243: Tinkmaster Overspark Legendary Minion Any 3
+Card 244: Tirion Fordring Legendary Minion Paladin 8
+Card 245: Ysera Legendary Minion Any 9

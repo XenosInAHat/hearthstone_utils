@@ -1,0 +1,123 @@
+Card 1: Annoy-o-Tron Common Minion Any 2
+Card 2: Anodized Robo Cub Common Minion Druid 2
+Card 3: Antique Healbot Common Minion Any 5
+Card 4: Burly Rockjaw Trogg Common Minion Any 4
+Card 5: Clockwork Gnome Common Minion Any 1
+Card 6: Cobra Shot Common Spell Hunter 5
+Card 7: Cogmaster Common Minion Any 1
+Card 8: Crackle Common Spell Shaman 2
+Card 9: Darkbomb Common Spell Warlock 2
+Card 10: Druid of the Fang Common Minion Druid 5
+Card 11: Explosive Sheep Common Minion Any 2
+Card 12: Flamecannon Common Spell Mage 2
+Card 13: Floating Watcher Common Minion Warlock 5
+Card 14: Flying Machine Common Minion Any 3
+Card 15: Force-Tank MAX Common Minion Any 8
+Card 16: Gilblin Stalker Common Minion Any 2
+Card 17: Glaivezooka Common Weapon Hunter 2
+Card 18: Gnomeregan Infantry Common Minion Any 3
+Card 19: Goblin Auto-Barber Common Minion Rogue 2
+Card 20: Lost Tallstrider Common Minion Any 4
+Card 21: Mechanical Yeti Common Minion Any 4
+Card 22: Mechwarper Common Minion Any 2
+Card 23: Micro Machine Common Minion Any 2
+Card 24: Ogre Brute Common Minion Any 3
+Card 25: Ogre Warmaul Common Weapon Warrior 3
+Card 26: Piloted Shredder Common Minion Any 4
+Card 27: Puddlestomper Common Minion Any 2
+Card 28: Salty Dog Common Minion Any 5
+Card 29: Seal of Light Common Spell Paladin 2
+Card 30: Shielded Minibot Common Minion Paladin 2
+Card 31: Ship's Cannon Common Minion Any 2
+Card 32: Shrinkmeister Common Minion Priest 2
+Card 33: Snowchugger Common Minion Mage 2
+Card 34: Spider Tank Common Minion Any 3
+Card 35: Stonesplinter Trogg Common Minion Any 2
+Card 36: Tinker's Sharpsword Oil Common Spell Rogue 4
+Card 37: Tinkertown Technician Common Minion Any 3
+Card 38: Velen's Chosen Common Spell Priest 3
+Card 39: Warbot Common Minion Warrior 1
+Card 40: Whirling Zap-o-matic Common Minion Shaman 2
+Card 41: Arcane Nullifier X-21 Rare Minion Any 4
+Card 42: Bomb Lobber Rare Minion Any 5
+Card 43: Call Pet Rare Spell Hunter 2
+Card 44: Cobalt Guardian Rare Minion Paladin 5
+Card 45: Dunemaul Shaman Rare Minion Shaman 4
+Card 46: Fel Cannon Rare Minion Warlock 4
+Card 47: Gnomish Experimenter Rare Minion Any 3
+Card 48: Goblin Blastmage Rare Minion Mage 4
+Card 49: Goblin Sapper Rare Minion Any 3
+Card 50: Grove Tender Rare Minion Druid 3
+Card 51: Illuminator Rare Minion Any 3
+Card 52: Imp-losion Rare Spell Warlock 4
+Card 53: Iron Sensei Rare Minion Rogue 3
+Card 54: Jeeves Rare Minion Any 4
+Card 55: Kezan Mystic Rare Minion Any 4
+Card 56: King of Beasts Rare Minion Hunter 5
+Card 57: Light of the Naaru Rare Spell Priest 1
+Card 58: Lil' Exorcist Rare Minion Any 3
+Card 59: Madder Bomber Rare Minion Any 5
+Card 60: Mech-Bear-Cat Rare Minion Druid 6
+Card 61: Metaltooth Leaper Rare Minion Hunter 3
+Card 62: Mistress of Pain Rare Minion Warlock 2
+Card 63: Muster for Battle Rare Spell Paladin 3
+Card 64: Ogre Ninja Rare Minion Rogue 5
+Card 65: One-eyed Cheat Rare Minion Rogue 2
+Card 66: Powermace Rare Weapon Shaman 3
+Card 67: Recycle Rare Spell Druid 6
+Card 68: Scarlet Purifier Rare Minion Paladin 3
+Card 69: Screwjank Clunker Rare Minion Warrior 4
+Card 70: Shadowboxer Rare Minion Priest 2
+Card 71: Shieldmaiden Rare Minion Warrior 6
+Card 72: Siege Engine Rare Minion Warrior 5
+Card 73: Soot Spewer Rare Minion Mage 3
+Card 74: Target Dummy Rare Minion Any 0
+Card 75: Unstable Portal Rare Spell Mage 2
+Card 76: Upgraded Repair Bot Rare Minion Priest 5
+Card 77: Vitality Totem Rare Minion Shaman 2
+Card 78: Ancestor's Call Epic Spell Shaman 4
+Card 79: Anima Golem Epic Minion Warlock 6
+Card 80: Bouncing Blade Epic Spell Warrior 3
+Card 81: Clockwork Giant Epic Minion Any 12
+Card 82: Coghammer Epic Weapon Paladin 3
+Card 83: Cogmaster's Wrench Epic Weapon Rogue 3
+Card 84: Crush Epic Spell Warrior 7
+Card 85: Dark Wispers Epic Spell Druid 6
+Card 86: Demonheart Epic Spell Warlock 5
+Card 87: Echo of Medivh Epic Spell Mage 4
+Card 88: Enhance-o Mechano Epic Minion Any 4
+Card 89: Feign Death Epic Spell Hunter 2
+Card 90: Fel Reaver Epic Minion Any 5
+Card 91: Hobgoblin Epic Minion Any 3
+Card 92: Junkbot Epic Minion Any 5
+Card 93: Lightbomb Epic Spell Priest 6
+Card 94: Mini-Mage Epic Minion Any 4
+Card 95: Piloted Sky Golem Epic Minion Any 6
+Card 96: Quartermaster Epic Minion Paladin 5
+Card 97: Recombobulator Epic Minion Any 2
+Card 98: Sabotage Epic Spell Rogue 4
+Card 99: Shadowbomber Epic Minion Priest 1
+Card 100: Siltfin Spiritwalker Epic Minion Shaman 4
+Card 101: Steamwheedle Sniper Epic Minion Hunter 2
+Card 102: Tree of Life Epic Spell Druid 9
+Card 103: Wee Spellstopper Epic Minion Mage 4
+Card 104: Blingtron 3000 Legendary Minion Any 5
+Card 105: Bolvar Fordragon Legendary Minion Paladin 5
+Card 106: Dr. Boom Legendary Minion Any 7
+Card 107: Flame Leviathan Legendary Minion Mage 7
+Card 108: Foe Reaper 4000 Legendary Minion Any 8
+Card 109: Gahz'rilla Legendary Minion Hunter 7
+Card 110: Gazlowe Legendary Minion Any 6
+Card 111: Hemet Nesingwary Legendary Minion Any 5
+Card 112: Iron Juggernaut Legendary Minion Warrior 6
+Card 113: Mal'Ganis Legendary Minion Warlock 9
+Card 114: Malorne Legendary Minion Druid 7
+Card 115: Mekgineer Thermaplugg Legendary Minion Any 9
+Card 116: Mimiron's Head Legendary Minion Any 5
+Card 117: Mogor the Ogre Legendary Minion Any 6
+Card 118: Neptulon Legendary Minion Shaman 7
+Card 119: Sneed's Old Shredder Legendary Minion Any 8
+Card 120: Toshley Legendary Minion Any 6
+Card 121: Trade Prince Gallywix Legendary Minion Rogue 6
+Card 122: Troggzor the Earthinator Legendary Minion Any 7
+Card 123: Vol'jin Legendary Minion Priest 5

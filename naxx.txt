@@ -1,0 +1,30 @@
+Card 1: Anub'ar Ambusher Common Minion Rogue 4
+Card 2: Avenge Common Spell Paladin 1
+Card 3: Dancing Swords Common Minion Any 3
+Card 4: Dark Cultist Common Minion Priest 3
+Card 5: Death's Bite Common Weapon Warrior 4
+Card 6: Duplicate Common Spell Mage 3
+Card 7: Haunted Creeper Common Minion Any 2
+Card 8: Mad Scientist Common Minion Any 2
+Card 9: Nerub'ar Weblord Common Minion Any 2
+Card 10: Poison Seeds Common Spell Druid 4
+Card 11: Reincarnate Common Spell Shaman 2
+Card 12: Spectral Knight Common Minion Any 5
+Card 13: Stoneskin Gargoyle Common Minion Any 3
+Card 14: Undertaker Common Minion Any 1
+Card 15: Unstable Ghoul Common Minion Any 2
+Card 16: Voidcaller Common Minion Warlock 4
+Card 17: Webspinner Common Minion Hunter 1
+Card 18: Zombie Chow Common Minion Any 1
+Card 19: Deathlord Rare Minion Any 3
+Card 20: Nerubian Egg Rare Minion Any 2
+Card 21: Sludge Belcher Rare Minion Any 5
+Card 22: Wailing Soul Rare Minion Any 4
+Card 23: Echoing Ooze Epic Minion Any 2
+Card 24: Shade of Naxxramas Epic Minion Any 3
+Card 25: Baron Rivendare Legendary Minion Any 4
+Card 26: Feugen Legendary Minion Any 5
+Card 27: Kel'Thuzad Legendary Minion Any 8
+Card 28: Loatheb Legendary Minion Any 5
+Card 29: Maexxna Legendary Minion Any 6
+Card 30: Stalagg Legendary Minion Any 5

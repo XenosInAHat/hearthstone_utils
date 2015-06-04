@@ -1,0 +1,31 @@
+Card 1: Axe Flinger Common Minion Warrior 4
+Card 2: Blackwing Corruptor Common Minion Any 5
+Card 3: Blackwing Technician Common Minion Any 3
+Card 4: Dragon's Breath Common Spell Mage 5
+Card 5: Dragonkin Sorcerer Common Minion Any 4
+Card 6: Drakonid Crusher Common Minion Any 6
+Card 7: Druid of the Flame Common Minion Druid 3
+Card 8: Fireguard Destroyer Common Minion Shaman 4
+Card 9: Gang Up Common Spell Rogue 2
+Card 10: Hungry Dragon Common Minion Any 4
+Card 11: Imp Gang Boss Common Minion Warlock 3
+Card 12: Quick Shot Common Spell Hunter 2
+Card 13: Solemn Vigil Common Spell Paladin 5
+Card 14: Twilight Whelp Common Minion Priest 1
+Card 15: Volcanic Drake Common Minion Any 6
+Card 16: Core Rager Rare Minion Hunter 4
+Card 17: Dark Iron Skulker Rare Minion Rogue 5
+Card 18: Demonwrath Rare Spell Warlock 3
+Card 19: Dragon Consort Rare Minion Paladin 5
+Card 20: Dragon Egg Rare Minion Any 1
+Card 21: Flamewaker Rare Minion Mage 3
+Card 22: Grim Patron Rare Minion Any 5
+Card 23: Lava Shock Rare Spell Shaman 2
+Card 24: Resurrect Rare Spell Priest 2
+Card 25: Revenge Rare Spell Warrior 2
+Card 26: Volcanic Lumberer Rare Minion Druid 9
+Card 27: Chromaggus Legendary Minion Any 8
+Card 28: Emperor Thaurissan Legendary Minion Any 6
+Card 29: Majordomo Executus Legendary Minion Any 9
+Card 30: Nefarian Legendary Minion Any 9
+Card 31: Rend Blackhand Legendary Minion Any 7
