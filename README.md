@@ -37,7 +37,7 @@ other applications.
 The scraper waits 10 seconds between requests to be somewhat courteous to the
 Wiki's servers.
 
-*\* Numbers are subject to change, based on additions/removals by Blizzard*
+* \* Numbers are subject to change, based on additions/removals by Blizzard*
 
 ### Deck-shuffling Simulator (proof of concept)
 
@@ -60,7 +60,7 @@ moment, this requires the user to manually create this list in a file named
 
 Usage:
 
-	python3 hearth-util.py
+	python3 hearth-util.py [--help or -h]
 	# Output: None
 
 ## Future Utilities
