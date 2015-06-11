@@ -37,7 +37,7 @@ other applications.
 The scraper waits 10 seconds between requests to be somewhat courteous to the
 Wiki's servers.
 
-* \* Numbers are subject to change, based on additions/removals by Blizzard*
+_\* Numbers are subject to change, based on additions/removals by Blizzard_
 
 ### Deck-shuffling Simulator (proof of concept)
 
