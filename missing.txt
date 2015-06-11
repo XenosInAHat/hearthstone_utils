@@ -12,7 +12,6 @@ Cenarius (Legendary)
 Hunter
 ----------
 Bestial Wrath (Epic)
-Call Pet, non-gold (Rare)
 Snake Trap (Epic)
 Gahz'rilla (Legendary)
 King Krush (Legendary)
@@ -20,7 +19,6 @@ King Krush (Legendary)
 ----------
 Mage
 ----------
-Unstable Portal (Rare)
 Spellbender (Epic)
 Kirin Tor Mage (Rare)
 Soot Spewer (Rare)
@@ -29,7 +27,6 @@ Flame Leviathan (Legendary)
 ----------
 Paladin
 ----------
-Eye for an Eye (Common)
 Coghammer (Epic)
 Bolvar Fordragon (Legendary)
 Quartermaster (Epic)
@@ -40,7 +37,6 @@ Tirion Fordring (Legendary)
 Priest
 ----------
 Lightwell (Rare)
-Shadowform, non-gold (Epic)
 Vol'jin (Legendary)
 Lightbomb (Epic)
 Prophet Velen (Legendary)
@@ -49,7 +45,6 @@ Prophet Velen (Legendary)
 Rogue
 ----------
 Preparation (Epic)
-Patient Assassin (Epic)
 Edwin VanCleef (Legendary)
 Iron Sensei (Rare)
 Trade Prince Gallywix (Legendary)
@@ -57,7 +52,6 @@ Trade Prince Gallywix (Legendary)
 ----------
 Shaman
 ----------
-Mana Tide Totem (Rare)
 Siltfin Spiritwalker (Epic)
 Neptulon (Legendary)
 
@@ -65,8 +59,6 @@ Neptulon (Legendary)
 Warlock
 ----------
 Pit Lord (Epic)
-Bane of Doom (Epic)
-Lord Jaraxxus (Legendary)
 
 ----------
 Warrior
@@ -93,11 +85,9 @@ Millhouse Manastorm (Legendary)
 Nat Pagle (Legendary)
 Pint-Sized Summoner (Rare)
 Big Game Hunter (Epic)
-Blood Knight, non-gold (Epic)
 Emperor Cobra (Rare)
 Hobgoblin (Epic)
 King Mukla (Legendary)
-Mind Control Tech (Rare)
 Questing Adventurer (Rare)
 Tinkmaster Overspark (Legendary)
 Enhance-o Mechano (Epic)
@@ -109,8 +99,6 @@ Harrison Jones (Legendary)
 Hemet Nesingwary (Legendary)
 Leeroy Jenkins (Legendary)
 Mimiron's Head (Legendary)
-Argent Commander (Rare)
-Gazlowe (Legendary)
 Gelbin Mekkatorque (Legendary)
 Hogger (Legendary)
 Mogor the Ogre (Legendary)
@@ -119,10 +107,8 @@ The Beast (Legendary)
 The Black Knight (Legendary)
 Toshley (Legendary)
 Baron Geddon (Legendary)
-Dr. Boom (Legendary)
 Troggzor (Legendary)
 Gruul (Legendary)
-Ragnaros the Firelord, non-gold (Legendary)
 Sneed's Old Shredder (Legendary)
 Alexstrasza (Legendary)
 Malygos (Legendary)
