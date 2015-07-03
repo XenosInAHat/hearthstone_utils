@@ -1,6 +1,6 @@
 import sys
 
-def get_class_cards(class_type, verbose):
+def get_class_cards(class_type, verbose, chomped):
     start = chomped.index(class_type)
     indices = [
         i for i, 
@@ -20,7 +20,7 @@ def get_class_cards(class_type, verbose):
             print("[List of cards not shown]")
     print()
 
-def get_rarity_cards(rarity, verbose):
+def get_rarity_cards(rarity, verbose, chomped):
     results = [x.rsplit(' ', 1)[0] for x in chomped if rarity in x]
     types = [rarity] * len(results)
     cost = get_cost(types)
@@ -81,15 +81,36 @@ def output_help(rarities, classes):
     print("\n")
     sys.exit(0)
 
-if __name__ == "__main__":
+def get_cards(user_input, verbose, chomped):
+    if user_input == 'd' or user_input == 'druid':
+        get_class_cards('Druid', verbose, chomped)
+    elif user_input == 'h' or user_input == 'hunter':
+        get_class_cards('Hunter', verbose, chomped)
+    elif user_input == 'm' or user_input == 'mage':
+        get_class_cards('Mage', verbose, chomped)
+    elif user_input == 'pa' or user_input == 'paladin':
+        get_class_cards('Paladin', verbose, chomped)
+    elif user_input == 'pr' or user_input == 'priest':
+        get_class_cards('Priest', verbose, chomped)
+    elif user_input == 'ro' or user_input == 'rogue':
+        get_class_cards('Rogue', verbose, chomped)
+    elif user_input == 's' or user_input == 'shaman':
+        get_class_cards('Shaman', verbose, chomped)
+    elif user_input == 'wl' or user_input == 'warlock':
+        get_class_cards('Warlock', verbose, chomped)
+    elif user_input == 'wr' or user_input == 'warrior':
+        get_class_cards('Warrior', verbose, chomped)
+    
+    elif user_input == 'l' or user_input == 'legendary':
+        get_rarity_cards('Legendary', verbose, chomped)
+    elif user_input == 'e' or user_input == 'epic':
+        get_rarity_cards('Epic', verbose, chomped)
+    elif user_input == 'r' or user_input == 'rare':
+        get_rarity_cards('Rare', verbose, chomped)
+    elif user_input == 'c' or user_input == 'common':
+        get_rarity_cards('Common', verbose, chomped)
 
-    lines = []
-    filename = 'missing.txt'
-    rarities = ['legendary', 'l', 'epic', 'e', 'rare', 'r', 'common', 'c']
-    classes = ['druid', 'd', 'hunter', 'h', 'mage', 'm',
-               'paladin', 'pa', 'priest', 'pr', 'rogue', 'ro',
-               'shaman', 's', 'warlock', 'wl', 'warrior', 'wr']
-
+def check_cmd_input():
     if len(sys.argv) < 1 or len(sys.argv) > 2:
         print("Usage: python3 hearth-util [--help or -h]")
         sys.exit(1)
@@ -100,11 +121,14 @@ if __name__ == "__main__":
         else:
             output_help(rarities, classes)
 
+def get_file_contents(filename):
     with open(filename) as f:
         lines = f.readlines()
 
     chomped = list(map(str.strip, lines))
+    return chomped
 
+def process_input(rarities, classes, chomped):
     input_question = 'What kind of cards are you looking for?' + \
                      ' [type "exit" to quit]\n'
 
@@ -133,31 +157,21 @@ if __name__ == "__main__":
                print('Invalid filter type.',
                        'Use the --help command to view all valid filter types.')
         else:
-            if user_input == 'd' or user_input == 'druid':
-                get_class_cards('Druid', verbose)
-            elif user_input == 'h' or user_input == 'hunter':
-                get_class_cards('Hunter', verbose)
-            elif user_input == 'm' or user_input == 'mage':
-                get_class_cards('Mage', verbose)
-            elif user_input == 'pa' or user_input == 'paladin':
-                get_class_cards('Paladin', verbose)
-            elif user_input == 'pr' or user_input == 'priest':
-                get_class_cards('Priest', verbose)
-            elif user_input == 'ro' or user_input == 'rogue':
-                get_class_cards('Rogue', verbose)
-            elif user_input == 's' or user_input == 'shaman':
-                get_class_cards('Shaman', verbose)
-            elif user_input == 'wl' or user_input == 'warlock':
-                get_class_cards('Warlock', verbose)
-            elif user_input == 'wr' or user_input == 'warrior':
-                get_class_cards('Warrior', verbose)
-            
-            elif user_input == 'l' or user_input == 'legendary':
-                get_rarity_cards('Legendary', verbose)
-            elif user_input == 'e' or user_input == 'epic':
-                get_rarity_cards('Epic', verbose)
-            elif user_input == 'r' or user_input == 'rare':
-                get_rarity_cards('Rare', verbose)
-            elif user_input == 'c' or user_input == 'common':
-                get_rarity_cards('Common', verbose)
+            get_cards(user_input, verbose, chomped)
 
+def main():
+    lines = []
+    filename = 'missing.txt'
+    rarities = ['legendary', 'l', 'epic', 'e', 'rare', 'r', 'common', 'c']
+    classes = ['druid', 'd', 'hunter', 'h', 'mage', 'm',
+               'paladin', 'pa', 'priest', 'pr', 'rogue', 'ro',
+               'shaman', 's', 'warlock', 'wl', 'warrior', 'wr']
+
+    check_cmd_input()
+
+    chomped = get_file_contents(filename)
+
+    process_input(rarities, classes, chomped)
+
+if __name__ == "__main__":
+    main()
