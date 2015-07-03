@@ -1,0 +1,175 @@
+==========
+Druid (6)
+==========
+-------
+Classic (3)
+-------
+Force of Nature (Epic)
+Ancient of War (Epic)
+Cenarius (Legendary)
+
+------------------
+Goblins vs. Gnomes (2)
+------------------
+Dark Wispers (Epic)
+Malorne (Legendary)
+
+==========
+Hunter (4)
+==========
+-----------
+Classic (3)
+-----------
+Bestial Wrath (Epic)
+King Krush (Legendary)
+Tree of Life (Epic)
+
+----------------------
+Goblins vs. Gnomes (1)
+----------------------
+Gahz'rilla (Legendary)
+
+==========
+Mage (1)
+==========
+-----------
+Classic (0)
+-----------
+
+----------------------
+Goblins vs. Gnomes (1)
+----------------------
+Flame Leviathan (Legendary)
+
+==========
+Paladin
+==========
+-----------
+Classic (2)
+-----------
+Lay on Hands (Epic)
+Tirion Fordring (Legendary)
+
+----------------------
+Goblins vs. Gnomes (3)
+----------------------
+Coghammer (Epic)
+Bolvar Fordragon (Legendary)
+Quartermaster (Epic)
+
+==========
+Priest (3)
+==========
+-----------
+Classic (1)
+-----------
+Prophet Velen (Legendary)
+
+----------------------
+Goblins vs. Gnomes (2)
+----------------------
+Vol'jin (Legendary)
+Lightbomb (Epic)
+
+==========
+Rogue (3)
+==========
+-----------
+Classic (2)
+-----------
+Preparation (Epic)
+Edwin VanCleef (Legendary)
+
+----------------------
+Goblins vs. Gnomes (1)
+----------------------
+Trade Prince Gallywix (Legendary)
+
+==========
+Shaman (2)
+==========
+-----------
+Classic (0)
+-----------
+
+----------------------
+Goblins vs. Gnomes (2)
+----------------------
+Siltfin Spiritwalker (Epic)
+Neptulon (Legendary)
+
+===========
+Warlock (0)
+===========
+-----------
+Classic (0)
+-----------
+
+----------------------
+Goblins vs. Gnomes (0)
+----------------------
+
+===========
+Warrior (5)
+===========
+-----------
+Classic (2)
+-----------
+Gorehowl (Epic)
+Grommash Hellscream (Legendary)
+
+----------------------
+Goblins vs. Gnomes (3)
+----------------------
+Bouncing Blade (Epic)
+Iron Juggernaut (Legendary)
+Crush (Epic)
+
+============
+Neutral (34)
+============
+------------
+Classic (21)
+------------
+Bloodmage Thalnos (Legendary)
+Lorewalker Cho (Legendary)
+Millhouse Manastorm (Legendary)
+Nat Pagle (Legendary)
+King Mukla (Legendary)
+Tinkmaster Overspark (Legendary)
+Captain Greenskin (Legendary)
+Harrison Jones (Legendary)
+Leeroy Jenkins (Legendary)
+Hogger (Legendary)
+Sylvanas Windrunner (Legendary)
+The Beast (Legendary)
+Baron Geddon (Legendary)
+Gruul (Legendary)
+Malygos (Legendary)
+Nozdormu (Legendary)
+Onyxia (Legendary)
+Ysera (Legendary)
+Deathwing (Legendary)
+Mountain Giant (Epic)
+Molten Giant (Epic)
+
+-----------------------
+Goblins vs. Gnomes (11)
+-----------------------
+Hobgoblin (Epic)
+Enhance-o Mechano (Epic)
+Mini-Mage (Epic)
+Blingtron 3000 (Legendary)
+Hemet Nesingwary (Legendary)
+Mimiron's Head (Legendary)
+Mogor the Ogre (Legendary)
+Toshley (Legendary)
+Troggzor the Earthinator (Legendary)
+Sneed's Old Shredder (Legendary)
+Clockwork Giant (Epic)
+
+----------
+Reward (2)
+----------
+Elite Tauren Chieftain (Legendary)
+Gelbin Mekkatorque (Legendary)

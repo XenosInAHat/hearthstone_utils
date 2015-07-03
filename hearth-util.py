@@ -1,6 +1,6 @@
 import sys
 
-def get_class_cards(class_type):
+def get_class_cards(class_type, verbose):
     start = chomped.index(class_type)
     indices = [
         i for i, 
@@ -12,18 +12,26 @@ def get_class_cards(class_type):
     cost = get_cost(rarity)
     print(class_type + ' (' + str(len(results)) + ' cards, ' + \
           str(cost) + ' dust):')
-    for item in results:
-        print(item)
+    if verbose:
+        for item in results:
+            print(item)
+    else:
+        if len(results) != 0:
+            print("[List of cards not shown]")
     print()
 
-def get_rarity_cards(rarity):
+def get_rarity_cards(rarity, verbose):
     results = [x.rsplit(' ', 1)[0] for x in chomped if rarity in x]
     types = [rarity] * len(results)
     cost = get_cost(types)
     print(rarity + ' (' + str(len(results)) + ' cards, ' + \
           str(cost) + ' dust):')
-    for line in results:
-        print(line)
+    if verbose:
+        for line in results:
+            print(line)
+    else:
+        if len(results) != 0:
+            print("[List of cards not shown]")
     print()
 
 def get_cost(rarity):
@@ -38,6 +46,40 @@ def get_cost(rarity):
         elif item == 'Common':
             total += 40
     return total
+
+def output_help(rarities, classes):
+    print("Hearthstone Utiltity (hearth-util) Help:")
+    print()
+
+    print("Possible rarities:")
+    count = 1
+    first = True
+    for i, item in enumerate(rarities):
+        if count >= 5:
+            print("")
+            count = 1
+        if i == len(rarities) - 1:
+            print(item, end="")
+        else:
+            print(item + ",", "", end="")
+            count += 1
+
+    print("\n")
+
+    print("Possible classes:")
+    count = 1
+    for i, item in enumerate(classes):
+        if count >= 5:
+            print()
+            count = 1
+        if i == len(classes) - 1:
+            print(item, end="")
+        else:
+            print(item + ",", "", end="")
+            count += 1
+
+    print("\n")
+    sys.exit(0)
 
 if __name__ == "__main__":
 
@@ -56,38 +98,7 @@ if __name__ == "__main__":
             print("Usage: python3 hearth-util [--help or -h]")
             sys.exit(1)
         else:
-            print("Hearthstone Utiltity (hearth-util) Help:")
-            print()
-
-            print("Possible rarities:")
-            count = 1
-            first = True
-            for i, item in enumerate(rarities):
-                if count >= 5:
-                    print("")
-                    count = 1
-                if i == len(rarities) - 1:
-                    print(item, end="")
-                else:
-                    print(item + ",", "", end="")
-                    count += 1
-
-            print("\n")
-
-            print("Possible classes:")
-            count = 1
-            for i, item in enumerate(classes):
-                if count >= 5:
-                    print()
-                    count = 1
-                if i == len(classes) - 1:
-                    print(item, end="")
-                else:
-                    print(item + ",", "", end="")
-                    count += 1
-
-            print("\n")
-            sys.exit(0)
+            output_help(rarities, classes)
 
     with open(filename) as f:
         lines = f.readlines()
@@ -100,39 +111,53 @@ if __name__ == "__main__":
     user_input = ''
     while True:
         user_input = input(input_question).lower()
+        user_input_list = user_input.split()
+        verbose = False
+        if len(user_input_list) != 1:
+            if user_input_list[1] != '-v' and user_input_list[1] != '--verbose':
+                print("Invalid input. Check help for more info.")
+                continue
+            elif not any(word in user_input_list[0] for word in rarities) and \
+                 not any(word in user_input_list[0] for word in classes):
+                   print('Invalid filter type.',
+                           'Use the --help command to view all valid filter types.')
+            else:
+                verbose = True
+                user_input = user_input_list[0]
+
         if user_input == "exit":
             break
         print()
         if not any(word in user_input for word in rarities) and \
            not any(word in user_input for word in classes):
-                print('Invalid filter type.',
-                      'Use the --help command to view all valid filter types.')
+               print('Invalid filter type.',
+                       'Use the --help command to view all valid filter types.')
         else:
             if user_input == 'd' or user_input == 'druid':
-                get_class_cards('Druid')
+                get_class_cards('Druid', verbose)
             elif user_input == 'h' or user_input == 'hunter':
-                get_class_cards('Hunter')
+                get_class_cards('Hunter', verbose)
             elif user_input == 'm' or user_input == 'mage':
-                get_class_cards('Mage')
+                get_class_cards('Mage', verbose)
             elif user_input == 'pa' or user_input == 'paladin':
-                get_class_cards('Paladin')
+                get_class_cards('Paladin', verbose)
             elif user_input == 'pr' or user_input == 'priest':
-                get_class_cards('Priest')
+                get_class_cards('Priest', verbose)
             elif user_input == 'ro' or user_input == 'rogue':
-                get_class_cards('Rogue')
+                get_class_cards('Rogue', verbose)
             elif user_input == 's' or user_input == 'shaman':
-                get_class_cards('Shaman')
+                get_class_cards('Shaman', verbose)
             elif user_input == 'wl' or user_input == 'warlock':
-                get_class_cards('Warlock')
+                get_class_cards('Warlock', verbose)
             elif user_input == 'wr' or user_input == 'warrior':
-                get_class_cards('Warrior')
+                get_class_cards('Warrior', verbose)
             
             elif user_input == 'l' or user_input == 'legendary':
-                get_rarity_cards('Legendary')
+                get_rarity_cards('Legendary', verbose)
             elif user_input == 'e' or user_input == 'epic':
-                get_rarity_cards('Epic')
+                get_rarity_cards('Epic', verbose)
             elif user_input == 'r' or user_input == 'rare':
-                get_rarity_cards('Rare')
+                get_rarity_cards('Rare', verbose)
             elif user_input == 'c' or user_input == 'common':
-                get_rarity_cards('Common')
+                get_rarity_cards('Common', verbose)
 

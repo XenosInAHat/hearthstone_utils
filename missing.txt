@@ -12,16 +12,12 @@ Cenarius (Legendary)
 Hunter
 ----------
 Bestial Wrath (Epic)
-Snake Trap (Epic)
 Gahz'rilla (Legendary)
 King Krush (Legendary)
 
 ----------
 Mage
 ----------
-Spellbender (Epic)
-Kirin Tor Mage (Rare)
-Soot Spewer (Rare)
 Flame Leviathan (Legendary)
 
 ----------
@@ -36,7 +32,6 @@ Tirion Fordring (Legendary)
 ----------
 Priest
 ----------
-Lightwell (Rare)
 Vol'jin (Legendary)
 Lightbomb (Epic)
 Prophet Velen (Legendary)
@@ -46,7 +41,6 @@ Rogue
 ----------
 Preparation (Epic)
 Edwin VanCleef (Legendary)
-Iron Sensei (Rare)
 Trade Prince Gallywix (Legendary)
 
 ----------
@@ -58,14 +52,11 @@ Neptulon (Legendary)
 ----------
 Warlock
 ----------
-Pit Lord (Epic)
 
 ----------
 Warrior
 ----------
-Commanding Shout (Rare)
 Bouncing Blade (Epic)
-Mortal Strike (Rare)
 Iron Juggernaut (Legendary)
 Gorehowl (Epic)
 Crush (Epic)
@@ -74,21 +65,12 @@ Grommash Hellscream (Legendary)
 ----------
 Neutral
 ----------
-Angry Chicken (Rare)
-Hungry Crab (Epic)
-Lightwarden (Rare)
-Ancient Watcher (Rare)
 Bloodmage Thalnos (Legendary)
-Doomsayer (Epic)
 Lorewalker Cho (Legendary)
 Millhouse Manastorm (Legendary)
 Nat Pagle (Legendary)
-Pint-Sized Summoner (Rare)
-Big Game Hunter (Epic)
-Emperor Cobra (Rare)
 Hobgoblin (Epic)
 King Mukla (Legendary)
-Questing Adventurer (Rare)
 Tinkmaster Overspark (Legendary)
 Enhance-o Mechano (Epic)
 Mini-Mage (Epic)
@@ -104,13 +86,11 @@ Hogger (Legendary)
 Mogor the Ogre (Legendary)
 Sylvanas Windrunner (Legendary)
 The Beast (Legendary)
-The Black Knight (Legendary)
 Toshley (Legendary)
 Baron Geddon (Legendary)
 Troggzor (Legendary)
 Gruul (Legendary)
 Sneed's Old Shredder (Legendary)
-Alexstrasza (Legendary)
 Malygos (Legendary)
 Nozdormu (Legendary)
 Onyxia (Legendary)
