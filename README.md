@@ -1,7 +1,7 @@
 # Hearthstone Utilities
 --
 *__Note:__ These utilities are not, in any way, sponsored, endorsed, or otherwise
-affilitiated with Blizzard's Hearthstone: Heroes of Warcraft.*
+affilitiated with [Blizzard's Hearthstone: Heroes of Warcraft](http://battle.net/hearthstone/).*
 
 These utilites are Python 3 scripts that allow users to play around with cards
 on their local systems (i.e. without the need to connect to Blizzard's servers).
