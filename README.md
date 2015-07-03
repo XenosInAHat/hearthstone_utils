@@ -59,7 +59,7 @@ moment, this requires the user to manually create this list in a file named
 "missing.txt" (a sample file is provided). 
 
 TODO: Migrate missing.txt to format of missing\_by\_set.txt (see sample file for an
-example.
+example).
 
 Usage:
 
